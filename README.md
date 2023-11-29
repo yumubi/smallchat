@@ -30,5 +30,3 @@ To run your application:
 
 ## TODO
 - [ ] 乱码问题
-- [ ] 点对点通信
-- [ ] 压测
